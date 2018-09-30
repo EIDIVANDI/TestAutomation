@@ -1,0 +1,9 @@
+{
+  "stryker-config": {
+    "reporter": "Console",
+    "logConsole": "info",
+    "timeoutMS": 10000,
+    "logFile": true,
+    "projectName": "TestAutomation.Unittests.csproj"
+  }
+}
