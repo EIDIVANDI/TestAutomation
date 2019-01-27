@@ -14,3 +14,5 @@ The stryker is used for the Mutation testing ,
 
 use the dotnet stryker command when locating in the test project folder. 
 
+to see the full article go to :
+https://www.tequia.com/2018/10/02/tests-automatise/
